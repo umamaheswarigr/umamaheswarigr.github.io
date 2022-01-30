@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./stylesheet.css" />
+    <title>Home Page</title>
+</head>
+<div>
 
-You can use the [editor on GitHub](https://github.com/umamaheswarigr/umamaheswarigr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="aboutme">
+<div class="content">
+<h1 class="name">About Uma Maheswari</h1>
+<p>I am from India, from a southern state called Tamil Nadu . 
+I moved to the United States and my husband and my daughter seven years ago. 
+I graduated in my country with Bachelors’s in Computer Science, and also I have a Diploma in Civil Engineering.
+ I love to spend time with my family and volunteer to teach my native language to children who emigrated from my state to the US.
 
-### Markdown
+After a long gap, I wanted to pursue my master’s, and I enrolled in a Systems Development Certification course with UNO. 
+This has been long pending for me, and I have been following my interests since my girl reached adolescence. 
+I look forward to the Web Development course interested in learning and using the tools to develop web pages to have one on my own. 
+My career interest is to become a developer, and the course, class, and my Master’s will help me pursue my career goal. </p>
+ <p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Apart from my family and studies, I am passionate about "cooking" and "gardening.” 
+Since my marriage, I started cooking and slowly started learning different cuisines only after coming to the US. 
+I mostly cook South Indian Cuisine, and I also have tried other Cuisine like Italian (Pastas and Pizza) and Chinese (Fried Rice Noodles).
+Most of my cooking is a healthy choice, and I avoid buying from restaurants as much as possible.
+Below are some of the images of the cuisines that I usually cook in my home.
+</p>
+<p>
 
-```markdown
-Syntax highlighted code block
+Apart from cooking, I enjoy gardening. I have a small garden on my patio and a few inside my house. 
+I take care of them well, and I spend my time in my garden in the summer evenings.
+I plant Rose and Jasmine as Rose is always pleasant to watch, and I like the fragrance from Jasmine. 
+I also grow vegetables like Tomato, Okra, Squash, Valor flat, peas, and others. 
+I usually want to use my vegetables in my cooking, and I can see the difference in taste when I cook them compared to the ones 
+I get from the grocery.</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umamaheswarigr/umamaheswarigr.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>That's all about me, and I am looking forward to spending the next few months with the class.</p>
+</div>
+<div class="image-profile">
+<img src="./image/uma.JPG" alt="profile image"/>
+</div>
+</div>
+<div class="internal-link">
+    <a href='page1.html'>My Garden Vegetables</a>
+<a href='page2.html'>My cooking</a>
+</div>
+</div>
+</body>
+</html>
