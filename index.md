@@ -47,8 +47,8 @@ I get from the grocery.</p>
 </div>
 </div>
 <div class="internal-link">
-    <a href='page1.html'>My Garden Vegetables</a>
-<a href='page2.html'>My cooking</a>
+    <a href='page1.html'>My Projects</a>
+<a href='page2.html'>Contact</a>
 </div>
 </div>
 </body>
